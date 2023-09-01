@@ -1,5 +1,4 @@
 Actividad Nº1
-
 | Compra de Pasajes   | 
 |---------------------|
 | Erick Salinas       | 
@@ -9,12 +8,6 @@ Actividad Nº1
 | Ivan Casilla        | 
 
 Actividad Nº2
-
-| Lenguaje a utilizar || Base de Datos a Utilizar || Utilizar OR/M || Dockerfile Funcional|| Documentación técnica en Github|
-|---------------------||--------------------------||---------------||---------------------||--------------------------------|
-| PHP                 || MSSQL                    ||               ||                     || Documentación en Formato.MD    |  
-
-
 | Lenguaje a utilizar | Base de Datos a Utilizar                     | Utilizar OR/M                          | Dockerfile Funcional                          | Dockerfile Funcional                          |  
 |---------------------|---------------------------------|----------------------------------|----------------------------------|----------------------------------|
 | PHP         | MSSQL      | OR      | Docker      | Documentación en Formato.MD      |
