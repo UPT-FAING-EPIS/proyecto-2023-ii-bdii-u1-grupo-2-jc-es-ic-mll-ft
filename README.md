@@ -18,6 +18,14 @@ b.-Visualización de Pasajes Disponibles
 c.-Compra de Pasaje
 d.-Reporte de Compra
 
+| Casos de Uso - Compra de Pasajes               | 
+|------------------------------------------------|
+| a.-Registro de Usuario                         | 
+| b.-Visualización de Pasajes Disponibles        | 
+| c.-Compra de Pasaje                            | 
+| d.-Reporte de Compra                           | 
+
+
 
 
 
