@@ -11,13 +11,6 @@ Actividad Nº2
 | Lenguaje a utilizar | Base de Datos a Utilizar | Utilizar OR/M | Dockerfile Funcional | Documentación técnica en repositorio de Github|  
 |---------------------|--------------------------|---------------|----------------------|-----------------------------------------------|
 | PHP                 | MSSQL                    | OR            | Docker               |              Documentación en Formato.MD      |
-
-Casos de Uso:
-a.-Registro de Usuario
-b.-Visualización de Pasajes Disponibles
-c.-Compra de Pasaje
-d.-Reporte de Compra
-
 | Casos de Uso - Compra de Pasajes               | 
 |------------------------------------------------|
 | a.-Registro de Usuario                         | 
