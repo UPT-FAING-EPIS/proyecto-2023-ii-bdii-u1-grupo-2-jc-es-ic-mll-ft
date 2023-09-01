@@ -14,14 +14,16 @@ Actividad Nº2
 
 | Casos de Uso - Compra de Pasajes               | 
 |------------------------------------------------|
-| 1.-Registro de Usuario                         | 
-| 2.-Visualización de Pasajes Disponibles        | 
-| 3.-Compra de Pasaje                            | 
-| 4.-Reporte de Compra                           | 
-| 5.-                        | 
-| 6.-     | 
-| 7.-                           | 
-| 8.-                         | 
+| 1.-Registro de Compra de Pasaje                | 
+| 2.-Gestión de Itinerarios                      | 
+| 3.-Generación de Boletos Electrónicos          | 
+| 4.-Almacenamiento de Datos de Pasajeros        | 
+| 5.-Aplicación de Impuestos y Tasas             | 
+| 6.-Registro de Preferencias de Asiento         | 
+| 7.-Envío de Confirmaciones por SMS             | 
+| 8.-Gestión de Equipaje Adicional               | 
+| 9.-Registros de Pasajeros Frecuentes           | 
+| 10.-Seguimiento de Historial de Compra         | 
 
 
 
