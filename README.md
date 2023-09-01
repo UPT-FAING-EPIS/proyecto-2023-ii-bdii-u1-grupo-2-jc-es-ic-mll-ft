@@ -14,11 +14,14 @@ Actividad Nº2
 
 | Casos de Uso - Compra de Pasajes               | 
 |------------------------------------------------|
-| a.-Registro de Usuario                         | 
-| b.-Visualización de Pasajes Disponibles        | 
-| c.-Compra de Pasaje                            | 
-| d.-Reporte de Compra                           | 
-
+| 1.-Registro de Usuario                         | 
+| 2.-Visualización de Pasajes Disponibles        | 
+| 3.-Compra de Pasaje                            | 
+| 4.-Reporte de Compra                           | 
+| 5.-                        | 
+| 6.-     | 
+| 7.-                           | 
+| 8.-                         | 
 
 
 
