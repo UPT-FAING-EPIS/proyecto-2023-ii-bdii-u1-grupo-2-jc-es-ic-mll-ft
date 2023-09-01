@@ -12,6 +12,12 @@ Actividad Nº2
 |---------------------|--------------------------|---------------|----------------------|-----------------------------------------------|
 | PHP                 | MSSQL                    | OR            | Docker               |              Documentación en Formato.MD      |
 
+Casos de Uso:
+a.-Registro de Usuario
+b.-Visualización de Pasajes Disponibles
+c.-Compra de Pasaje
+d.-Reporte de Compra
+
 
 
 
