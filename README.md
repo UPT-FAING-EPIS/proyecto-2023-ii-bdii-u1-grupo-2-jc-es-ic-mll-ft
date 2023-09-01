@@ -2,10 +2,10 @@
 
 
 
-| Compra de Pasajes | 
+| Compra de Pasajes   | 
 |---------------------|
 | Erick Salinas       | 
-| Joel Ccalli      | 
-| Fiorela Ticahuanca        | 
-| Marjorie Llantay        | 
+| Joel Ccalli         | 
+| Fiorela Ticahuanca  | 
+| Marjorie Llantay    | 
 | Ivan Casilla        | 
