@@ -10,7 +10,7 @@ Actividad Nº1
 Actividad Nº2
 | Lenguaje a utilizar | Base de Datos a Utilizar | Utilizar OR/M | Dockerfile Funcional | Documentación técnica en repositorio de Github|  
 |---------------------|--------------------------|---------------|----------------------|-----------------------------------------------|
-| PHP                 | MSSQL                    | OR            | Docker               |              Documentación en Formato.MD      |
+| PHP                 | PostgreSQL               | OR            | Docker               |              Documentación en Formato.MD      |
 
 | Casos de Uso - Compra de Pasajes               | 
 |------------------------------------------------|
