@@ -12,12 +12,12 @@ Actividad Nº2
 |---------------------|--------------------------|---------------|----------------------|-----------------------------------------------|
 | PHP                 | PostgreSQL               | OR            | Docker               |              Documentación en Formato.MD      |
 
-| Casos de Uso - Compra de Pasajes               | 
-|------------------------------------------------|
-| 1.-Registro de Compra de Pasaje                | 
-| 2.-Búsqueda de Rutas y Precios                 | 
+| Casos de Uso - Compra de Pasajes               | | Asignado Para:               | 
+|------------------------------------------------| |------------------------------|
+| 1.-Registro de Compra de Pasaje                | | 1.-Erick Salinas             | 
+| 2.-Búsqueda de Rutas y Precios                 | | 2.-Joel Ccalli               | 
 | 3.-Generación de Boletos Electrónicos          | 
-| 4.-Emisión de Tarjeta de Embarque              | 
+| 4.-Emisión de Tarjeta de Embarque              | | 4.-Joel Ccalli               | 
 | 5.-Aplicación de Impuestos y Tasas             | 
 | 6.-Registro de Preferencias de Asiento         | 
 | 7.-Envío de Confirmaciones por SMS             | 
