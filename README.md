@@ -18,11 +18,11 @@ Actividad Nº2
 | 2.-Búsqueda de Rutas y Precios                 | 2.-Joel Ccalli              |
 | 3.-Generación de Boletos Electrónicos          | 3.-Marjorie Llantay         |
 | 4.-Emisión de Tarjeta de Embarque              | 4.-Joel Ccalli              |
-| 5.-Aplicación de Impuestos y Tasas             | 5.-                         | 
+| x5.-Aplicación de Impuestos y Tasas            | 5.-                         | 
 | 6.-Registro de Preferencias de Asiento         | 6.-                         | 
 | 7.-Envío de Confirmaciones por SMS             | 7.-                         | 
 | 8.-Gestión de Equipaje Adicional               | 8.-                         | 
-| 9.-Registros de Pasajeros Frecuentes           | 9.-                         | 
+| x9.-Registros de Pasajeros Frecuentes          | 9.-                         | 
 | 10.-Seguimiento de Historial de Compra         | 10.-                        | 
 
 
